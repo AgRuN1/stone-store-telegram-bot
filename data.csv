@@ -1,0 +1,8 @@
+Тип,Город,Бренд,Артикль,Название,Кратность,Количество,Приход,Изображение,id
+Акриловый,Москва,Brand,X-003,Super Sand,0.25,5.0,20.04.2021,https://cdn.pixabay.com/photo/2016/05/04/19/39/stones-1372677_1280.jpg,1
+Акриловый,Санкт Петербург,Brand,CC-02,Ultra Light,0.25,12.25,30.05.2021,https://cdn.pixabay.com/photo/2012/02/23/08/38/rocks-15712_1280.jpg,2
+Кварцевый,Москва,Trademark,BQ-03,Quasar,0.5,33.0,13.05.2021,https://cdn.pixabay.com/photo/2016/04/18/22/05/seashells-1337565_1280.jpg,3
+Бренд,Артикль,Название,Товар
+Hi-Macs,DZ-001,Good Name,1
+TriStone,BE-05,Some Name,2
+Avant,H64,Super Name,3
